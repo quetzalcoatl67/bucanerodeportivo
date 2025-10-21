@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,DAZN 1 SHICKAT
-acestream://b03f9310155cf3b4eafc1dfba763781abc3ff025
+http://vlc.shickat.me:8000/pid/b03f9310155cf3b4eafc1dfba763781abc3ff025/stream.mp4
 
 #EXTINF:-1,DAZN 1 SHICKAT 2
 acestream://36394be1db2e20b5997d987c32fd38c7f0f194b7
